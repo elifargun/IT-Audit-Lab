@@ -1,0 +1,7 @@
+name,department,role,access,status,employment_status
+Ahmet Yilmaz,Accounting,Specialist,ERP User,Active,Employee
+Selin Öztürk,Accounting,Manager,ERP Admin,Active,Employee
+Mehmet Demir,IT,System Specialist,Domain Admin,Active,Employee
+Burak Kaya,Sales,Specialist,CRM Admin,Active,Employee
+Veli Celik,IT,Former Employee,Domain Admin,Active,Former Employee
+Ayse Koc,HR,Specialist,HR User,Active,Employee
